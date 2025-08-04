@@ -34,4 +34,4 @@ daily-boj-cpp/
 
 ## 기타
 
-문제 풀이 이후 실수한 부분이나 오래 걸린 부분을 주석으로 적어서 복기해봅니다.
+### [BOJ 계정](https://www.acmicpc.net/user/gwt_t)

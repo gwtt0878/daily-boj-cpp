@@ -11,7 +11,8 @@
                 "-std=c++17",
                 "${file}",
                 "-o",
-                "${fileDirname}/../build/${fileBasenameNoExtension}.exe"
+                "${fileDirname}/../build/${fileBasenameNoExtension}.exe",
+                "-Wl,--stack,134217728" // 스택 크기로 변경 128MB
             ],
             "options": {
                 "cwd": "${fileDirname}"

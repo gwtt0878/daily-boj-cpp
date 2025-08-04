@@ -1,3 +1,9 @@
  {
-    "C_Cpp.autocomplete": "disabled"
+   "C_Cpp.autocomplete": "disabled",
+   "files.associations": {
+    "xiosbase": "cpp",
+    "vector": "cpp",
+    "deque": "cpp",
+    "iostream": "cpp"
+  }
  }
